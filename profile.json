@@ -1,0 +1,35 @@
+{
+  "target_titles": [
+    "Full-Stack Engineer",
+    "Software Engineer",
+    "Frontend Engineer",
+    "Web Developer"
+  ],
+  "locations": ["Remote (US)", "Denver, CO", "Boulder, CO"],
+  "min_salary": 130000,
+  "must_have": ["React or Angular", "Python or Node.js"],
+  "deal_breakers": [
+    "requires relocation outside Colorado",
+    "visa sponsorship offered only"
+  ],
+  "min_score": 70,
+  "personal": {
+    "first_name": "ZongYao",
+    "last_name": "Yang",
+    "email": "zongyao.yang@gmail.com",
+    "phone": "+1 786-618-7880",
+    "location": "Denver, CO",
+    "linkedin": "https://linkedin.com/in/zongyaoyang",
+    "github": "https://github.com/ZongyaoYang",
+    "website": ""
+  },
+  "standard_answers": {
+    "authorized_to_work_in_us": "Yes",
+    "requires_sponsorship": "No",
+    "willing_to_relocate": "Yes",
+    "salary_expectation": "",
+    "earliest_start_date": "1 week after offer",
+    "how_did_you_hear": "Company careers page",
+    "eeo": "Decline to self-identify"
+  }
+}

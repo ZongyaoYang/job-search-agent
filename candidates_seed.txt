@@ -1,0 +1,213 @@
+# Seed list of company names to test. Many will not match a Greenhouse/Lever board; that is fine.
+Stripe
+Airbnb
+Figma
+Dropbox
+Coinbase
+Datadog
+GitLab
+Cloudflare
+Twilio
+Okta
+Asana
+Reddit
+Pinterest
+Instacart
+DoorDash
+Robinhood
+Brex
+Gusto
+Lyft
+Discord
+Webflow
+MongoDB
+Elastic
+HashiCorp
+Samsara
+Vercel
+Zapier
+Postman
+Squarespace
+Etsy
+Duolingo
+Peloton
+Grammarly
+Calendly
+Airtable
+Amplitude
+Segment
+PagerDuty
+New Relic
+Fastly
+Netlify
+Sentry
+LaunchDarkly
+Mixpanel
+Heap
+Retool
+Plaid
+Chime
+Affirm
+SoFi
+Carta
+Toast
+Flexport
+Gemini
+Kraken
+Ripple
+Chainalysis
+Anduril
+Verkada
+Samsara
+Zscaler
+CrowdStrike
+Snyk
+1Password
+Bitwarden
+Auth0
+Contentful
+Sanity
+Algolia
+Typeform
+Mailchimp
+Klaviyo
+Braze
+Iterable
+Attentive
+HubSpot
+Intercom
+Zendesk
+Gorgias
+Front
+Loom
+Miro
+Lucid
+Canva
+Notion
+Linear
+Ramp
+Mercury
+Wealthfront
+Betterment
+Opendoor
+Zillow
+Redfin
+Compass
+Hims
+Oscar Health
+Included Health
+Zocdoc
+Headspace
+Calm
+Strava
+Whoop
+Oura
+Coursera
+Udemy
+Chegg
+Quizlet
+Khan Academy
+Instructure
+PowerSchool
+Clever
+Anaplan
+Workiva
+Procore
+Autodesk
+Bentley Systems
+Epic Games
+Roblox
+Unity
+Niantic
+Riot Games
+Twitch
+Snap
+Nextdoor
+Yelp
+Thumbtack
+Faire
+Shopify
+BigCommerce
+Wayfair
+Chewy
+Warby Parker
+Allbirds
+Glossier
+Rent the Runway
+Stitch Fix
+Carvana
+Turo
+Getaround
+Rivian
+Lucid Motors
+Nuro
+Cruise
+Aurora
+Waymo
+Relativity Space
+Rocket Lab
+Planet Labs
+Maxar
+Spire
+Descartes Labs
+Jupiter Intelligence
+Tomorrow.io
+ClimaCell
+Xylem
+Ecobee
+Sunrun
+Enphase
+Span
+Arcadia
+Palantir
+Scale AI
+Databricks
+Snowflake
+Confluent
+dbt Labs
+Fivetran
+Airbyte
+Hex
+Mode
+Looker
+Tableau
+Sigma Computing
+Hugging Face
+Weights and Biases
+Anthropic
+OpenAI
+Cohere
+Mistral
+Replit
+Supabase
+PlanetScale
+Neon
+Render
+Fly.io
+Railway
+DigitalOcean
+Linode
+Backblaze
+Wasabi
+Box
+Egnyte
+Smartsheet
+Monday.com
+ClickUp
+Basecamp
+Doist
+Buffer
+Hotjar
+FullStory
+LogRocket
+Datadog
+Honeycomb
+Lightstep
+Grafana Labs
+Chronosphere
+Cockroach Labs
+Yugabyte
+Timescale
+Redis
+Couchbase
+Neo4j
