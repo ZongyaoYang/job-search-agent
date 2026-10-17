@@ -31,5 +31,35 @@
     "earliest_start_date": "1 week after offer",
     "how_did_you_hear": "Company careers page",
     "eeo": "Decline to self-identify"
-  }
+  },
+  "title_keywords": [
+    "full stack",
+    "full-stack",
+    "fullstack",
+    "frontend",
+    "front-end",
+    "front end",
+    "software engineer",
+    "web developer",
+    "react",
+    "angular",
+    "django"
+  ],
+  "title_exclude": [
+    "staff",
+    "principal",
+    "director",
+    "manager",
+    "intern",
+    "ios",
+    "android",
+    "embedded",
+    "security",
+    "devops",
+    "sre",
+    "data scientist",
+    "machine learning"
+  ],
+  "max_age_days": 30,
+  "min_match_score": 25
 }
